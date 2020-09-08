@@ -66,8 +66,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.freedesktop.org/gstreamer/gst-plugins-base.git",
-                    "branch" : "1.16.2",
-                    "commit" : "9d3581b2e6f12f0b7e790d1ebb63b90cf5b1ef4e"
+                    "branch" : "1.18.0",
+                    "commit" : "f21623c1f60949ed6a77e2c2c3857be942cd2db5"
                 }
             ]
         },
